@@ -1,26 +1,31 @@
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-family: Arial, sans-serif;
-    background-color: powderblue;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  background-color: powderblue;
+}
+
 
 h1 
-  {color: blue;
-    }
-   
-p
+{color: blue;
+  }
+ 
+p.red
+{color: red;
+  }
+
+p.yellow
 {color: yellow;
-    }
+  }
+
 
 button {
-        border: none;
-        padding: 12px 24px;
-        background-color: #4CAF50;
-        color: white;
-        border-radius: 8px;
-        cursor: pointer;
-    }
+      border: none;
+      padding: 12px 24px;
+      background-color: #4CAF50;
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+  }
