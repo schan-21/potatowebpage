@@ -49,6 +49,10 @@ header {
 
 p {
   color: yellow;
+} 
+
+h5 {
+  color: red;
 }
 
 button:hover {
@@ -168,8 +172,8 @@ button:hover {
 
 img {
   background-color: transparent;
-  max-width: 50px;
-  max-height: 50px;
+  max-width: 400px;
+  max-height: 400px;
 }
 
 .PotatoImg {
